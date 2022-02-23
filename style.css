@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap&subset=latin-ext");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pattaya&display=swap");
+/* font-family: 'Oswald', sans-serif; */
+/* font-family: 'Montserrat', sans-serif; */
+/* font-family: 'Roboto', sans-serif; */
+/* font-family: 'Pattaya', sans-serif; */
+
+/* ---------------------------------------------------- */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+html {
+  font-family: "Oswald", sans-serif;
+}
+body {
+  background-color: rgb(117, 123, 123);
+}
